@@ -1,0 +1,7 @@
+-Carousel size
+width: 1200px;
+    height: 670px;
+
+
+-crew background color
+#dcd6f7

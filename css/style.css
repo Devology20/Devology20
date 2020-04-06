@@ -1,0 +1,45 @@
+
+/*Customize header*/
+.custom-header
+{
+    height: 750px;
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) , url('../Images/img1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.custom-header-img
+{
+    height: 100%;
+    width: 100%;
+}
+/*
+/*Customize header*/
+
+/*Customize services*/
+.custom-services
+{
+    background-color: white;
+}
+/*Customize services*/
+
+.custom-border-img
+{
+    border-right: 10px solid purple;
+}
+
+.customize-jumb
+{
+    background-color: #dcd6f7;
+}
+
+.customize-crew
+{
+    background-color: #dcd6f7;
+}
+
+.customize-carousel-img
+{
+    width:1200px; 
+    height: 720px;
+}
+
